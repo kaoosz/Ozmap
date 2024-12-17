@@ -32,6 +32,7 @@ export const validateUpdateUser = (
     res.status(400).json({
       error: 'you most provide some field to update',
     });
+    return;
   }
   req.body = parsed.data;
   next();
