@@ -1,7 +1,7 @@
 ## ⚙️ Clonar o Repositório
 
 ```
-git clone https://github.com/kaoosz/ozmap-TEST.git
+git clone https://github.com/kaoosz/Ozmap.git
 ```
 🔧 Configuração do Ambiente
 
